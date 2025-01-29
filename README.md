@@ -16,3 +16,5 @@ ESP32 signals! You have to make sure to use a HCT type!
 For programming please remove the jumper J302 so the ESP32 module is powered by the USB connection. After programming you
 
 have to remove the USB cable and you must insert the jumper J302!
+
+The documentation: http://www.systech-gmbh.ch/Files/Other/PDF/ESP32-WLED-D35-V11-za.pdf
