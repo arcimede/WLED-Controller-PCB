@@ -19,4 +19,4 @@ have to remove the USB cable and you must insert the jumper J302!
 
 The documentation: http://www.systech-gmbh.ch/Files/Other/PDF/ESP32-WLED-D35-V11-za.pdf
 
-See the WIKI also! 
+See the WIKI also! https://github.com/arcimede/WLED-Controller-PCB/wiki
